@@ -15,6 +15,7 @@ asistentes personales digitales, tarjetas
 inteligentes y bluetooth
 
 Redes VLAN:
+
 2.1 Tipos VLAN
 2.2 Protocolos de enlace VLAN 
 2.3 Enrutamiento inter VLAN 
