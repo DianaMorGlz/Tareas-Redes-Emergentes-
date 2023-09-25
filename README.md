@@ -43,6 +43,7 @@ Redes inalámbricas:
 4.5 Configuración de acceso a una red inalámbrica
 
 Red VoIP:
+
 5.1 Introducción a la telefonía IP 
 5.2 La evolución tecnológica 
 5.3 Digitalización de la voz 
